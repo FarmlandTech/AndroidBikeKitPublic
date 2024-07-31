@@ -87,7 +87,7 @@
     
     ```groovy
     dependencies {
-      implementation 'com.github.farmlandtech:androidbikekitpublic:{{release_version}}'
+      implementation 'com.github.farmlandtech:android-bikekit-public:{{release_version}}'
     }
     ```
     
@@ -95,6 +95,6 @@
     
     ```kotlin
     dependencies {
-      implementation("com.github.farmlandtech:androidbikekitpublic:{{release_version}}")
+      implementation("com.github.farmlandtech:android-bikekit-public:{{release_version}}")
     }
     ```
