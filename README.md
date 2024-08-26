@@ -47,7 +47,7 @@
         dependencyResolutionManagement {
             repositories {
               maven {
-                  url = uri("https://maven.pkg.github.com/farmlandtech/AndroidBikeKit")
+                  url = uri("https://maven.pkg.github.com/farmlandtech/AndroidBikeKitPublic")
             
                   credentials {
                       username = keystoreProperties["gpr.usr"]
